@@ -2,6 +2,7 @@
 # this file reconstruct from all the folder
 # To run this we need steering file named "b2d.py" in same directory
 # WHEN WE PUT "*" IN "ls" COMMAND, IT RETURNS FULL PATHNAME ALSO.
+# git test
 
 path=$(pwd)
 
